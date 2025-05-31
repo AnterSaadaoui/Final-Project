@@ -1,4 +1,4 @@
-# ML-final-Project
+# Final-Project
 This project analyzes electric vehicle trip data
 ------
 Project Overview
