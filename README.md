@@ -18,11 +18,13 @@ The analysis involves:
 List of included files
 -------------------------
 - Notebook
-🔗 [View the notebook on nbviewer](https://nbviewer.org/github/AnterSaadaoui/ML-final-Project/blob/Notebook/ML_Final%20Project_Anter%20Saadaoui.ipynb)
+🔗 [View the notebook on GitHub](https://github.com/AnterSaadaoui/Final-Project/blob/8b345bc07f7530824763dff3d42126fd282292db/ML_Final%20Project_Anter%20Saadaoui.ipynb)
+
 - Presentation
-📥 [Download the PowerPoint presentation](https://github.com/AnterSaadaoui/ML-final-Project/raw/Presentation/ML_Final%20Project_Anter%20Saadaoui.pptx)
+📥 [Download the PowerPoint presentation](https://github.com/AnterSaadaoui/Final-Project/blob/effda8452e7c21b3ff69348b5b6d8bdb68911042/ML_Final%20Project_Anter%20Saadaoui.pptx)
+
 - Read Me File
-  
+
 Required Python Libraries
 -------------------------
 To run the notebook successfully, make sure the following libraries are installed:
