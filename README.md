@@ -35,6 +35,8 @@ To run the notebook successfully, make sure the following libraries are installe
 - missingno
 - scikit-learn
 - xgboost
+
+  
 You can install them using pip:
 %pip install pandas matplotlib seaborn missingno scikit-learn xgboost
 
